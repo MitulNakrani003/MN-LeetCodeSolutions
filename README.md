@@ -62,11 +62,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0286-walls-and-gates](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0286-walls-and-gates/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
