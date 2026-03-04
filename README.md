@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0131-palindrome-partitioning](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
