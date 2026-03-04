@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,12 +28,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 | [0496-next-greater-element-i](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
 <!---LeetCode Topics End-->
