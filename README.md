@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0286-walls-and-gates](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0286-walls-and-gates/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -71,14 +72,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0111-minimum-depth-of-binary-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
