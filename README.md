@@ -61,5 +61,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0286-walls-and-gates](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0286-walls-and-gates/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
