@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
 | [0994-rotting-oranges](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [1462-course-schedule-iv](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1462-course-schedule-iv/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0261-graph-valid-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0417-pacific-atlantic-water-flow/) | Medium |
+| [1462-course-schedule-iv](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1462-course-schedule-iv/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,9 +141,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0261-graph-valid-tree](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0261-graph-valid-tree/) | Medium |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0323-number-of-connected-components-in-an-undirected-graph/) | Medium |
+| [1462-course-schedule-iv](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1462-course-schedule-iv/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
+| [1462-course-schedule-iv](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1462-course-schedule-iv/) | Medium |
 <!---LeetCode Topics End-->
