@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0846-hand-of-straights](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [0994-rotting-oranges](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
 | [0846-hand-of-straights](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
