@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0057-insert-interval](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0057-insert-interval/) | Medium |
 | [0079-word-search](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/0085-maximal-rectangle/) | Hard |
