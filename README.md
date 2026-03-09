@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [0846-hand-of-straights](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [0994-rotting-oranges](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [1851-minimum-interval-to-include-each-query](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/1851-minimum-interval-to-include-each-query/) | Hard |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
+| [1851-minimum-interval-to-include-each-query](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
+| [1851-minimum-interval-to-include-each-query](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/1851-minimum-interval-to-include-each-query/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +222,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/1851-minimum-interval-to-include-each-query/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Hard/1851-minimum-interval-to-include-each-query/) | Hard |
 <!---LeetCode Topics End-->
