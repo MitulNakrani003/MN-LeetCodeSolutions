@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
 | [0213-house-robber-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0252-meeting-rooms](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0286-walls-and-gates](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0286-walls-and-gates/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0763-partition-labels](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 | [0846-hand-of-straights](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/1899-merge-triplets-to-form-target-triplet/) | Medium |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0283-move-zeroes/) | Easy |
 | [0763-partition-labels](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0763-partition-labels/) | Medium |
 ## Union-Find
@@ -182,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0743-network-delay-time](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 ## Shortest Path
@@ -196,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0252-meeting-rooms](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Easy/0252-meeting-rooms/) | Easy |
+| [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0846-hand-of-straights/) | Medium |
 ## Bucket Sort
@@ -210,4 +215,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0253-meeting-rooms-ii](https://github.com/MitulNakrani003/MN-LeetCodeSolutions/tree/main/LeetCode/Medium/0253-meeting-rooms-ii/) | Medium |
 <!---LeetCode Topics End-->
